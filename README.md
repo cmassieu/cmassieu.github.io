@@ -1,3 +1,0 @@
-# ebrs
-
-Hola mundo
